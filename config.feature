@@ -6,11 +6,11 @@ Quando informo uma quantidade menor que 10
 Entao vejo que consigo concluir a venda
 Exemplos:
 |cor	|tamanho|
-|Blue	|XS
-|Orange |S
-|Red	|M
-		|L
-		|XL
+|Blue	|XS	|
+|Orange |S	|
+|Red	|M	|
+|	|L	|
+|	|XL	|
 
 Cenario 2: Validar venda com mais de 10 unidades
 E tenha selecionado uma <cor> e <tamanho>
@@ -18,11 +18,11 @@ Quando informo uma quantidade maior que 10
 Entao vejo que nao consigo concluir a venda
 Exemplos:
 |cor	|tamanho|
-|Blue	|XS
-|Orange |S
-|Red	|M
-		|L
-		|XL
+|Blue	|XS	|
+|Orange |S	|
+|Red	|M	|
+|	|L	|
+|	|XL	|
 		
 Cenario 3: Validar venda sem informar cor e tamanho com menos de 10 unidades
 E nao tenha selecionado uma cor e tamanho
