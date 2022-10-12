@@ -1,3 +1,5 @@
+Como um usuario, gostaria de acessar o checkout para finalziar minhas compras
+
 Contexto: Dado que eu esteja na pagina de checkout
 
 Quando nao informo nenhum dado
